@@ -2,6 +2,10 @@ Military Ranks.
 
 Ground Military Forces of Propia : 
 
+
+COL		- Colonel
+LTC		- Lieutenant Colonel
+MAJ		- Major
 CPT		- Captain
 1LT		- Second Lieutenant
 2LT		- First Lieutenant

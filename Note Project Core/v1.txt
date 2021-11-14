@@ -1,0 +1,14 @@
+Military Ranks.
+
+Ground Military Forces of Propia : 
+
+
+
+CCP		- Chief Corporal
+CPL		- Corporal
+1ndCPL	- First Class Corporal 
+2ndCPL 	- Second Class Corporal 
+PSP 		- Private Specialist
+PFC 		- Private First Class
+PVT 		- Private
+

@@ -2,7 +2,8 @@ Military Unit of Propia :
 - Ground Military Unit of Propia
 - Marine Military Unit of Propia
 - Airforce Military Unit of Propia
-- National Police of Propia
+- Propia National Police
+- Intelligence Agency of Propia
 
 
 

@@ -8,7 +8,15 @@ Military Unit of Propia :
 
 
 
-Military Ranks of Ground Military Forces of Propia : 
+
+### GROUND MILITARY UNIT OF PROPIA ###
+Division GMU : 
+- Infantery (Raider, Para, 
+- Artilery
+- Medic
+
+
+Military Ranks of Ground Military UNIT of Propia : 
 COL		- Colonel
 LTC		- Lieutenant Colonel
 MAJ		- Major

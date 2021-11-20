@@ -11,6 +11,7 @@ Military Unit of Propia :
 
 ### GROUND MILITARY UNIT OF PROPIA ###
 Division GMU : 
+- GMSF 
 - Infantery (Raider, Para, 
 - Artilery
 - Medic

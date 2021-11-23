@@ -19,7 +19,7 @@ Division GMU :
 - Corps Medic
 - Corps Military Police
 - Corps GM Flight 
-- Corps Logistics
+- Corps Logistics ( Heavy Load Division, Light Load Division)
 
 
 Military Ranks of Ground Military UNIT of Propia : 

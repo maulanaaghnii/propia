@@ -4,6 +4,7 @@ Military Unit of Propia :
 - Airforce Military Unit of Propia
 - Propia National Police
 - Intelligence Agency of Propia
+- Customs Protection Unit of Propia
 
 
 
@@ -18,6 +19,7 @@ Division GMU :
 - Corps Medic
 - Corps Military Police
 - Corps GM Flight Unit
+- Corps 
 
 
 Military Ranks of Ground Military UNIT of Propia : 

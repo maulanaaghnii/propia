@@ -15,8 +15,8 @@ Division GMU :
 - Corps GMSF (Fox Division) 
 - Corps Infantery (Raider Division, Para Division, 
 - Corps Artilery ( Land Artilery Division, Air Artilery Division)
-- Corps Cavalery
-- Corps Medic
+- Corps Cavalery (Assault Cavalery Division, Support Cavalery Division, Defense Cavalery Division)
+- Corps Medic (Office Hospital Division, Field Support Division, Mobile Medic Division)
 - Corps Military Police
 - Corps GM Flight ( Air Transport Division, Air Cargo Division, Air Support Division, Assault Division)
 - Corps Logistics ( Heavy Load Division, Light Load Division)

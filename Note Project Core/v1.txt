@@ -14,7 +14,7 @@ Military Unit of Propia :
 Division GMU : 
 - Corps GMSF 
 - Corps Infantery (Raider, Para, 
-- Corps Artilery
+- Corps Artilery ( Land Artilery Division, Air Artilery Division)
 - Corps Cavalery
 - Corps Medic
 - Corps Military Police

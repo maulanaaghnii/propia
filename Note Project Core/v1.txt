@@ -12,14 +12,14 @@ Military Unit of Propia :
 
 ### GROUND MILITARY UNIT OF PROPIA ###
 Division GMU : 
-- Corps GMSF (Fox Division) 
-- Corps Infantery (Raider Division, Para Division, 
-- Corps Artilery ( Land Artilery Division, Air Artilery Division)
-- Corps Cavalery (Assault Cavalery Division, Support Cavalery Division, Defense Cavalery Division)
-- Corps Medic (Office Hospital Division, Field Support Division, Mobile Medic Division)
+- Corps GMSF (Fox ) 
+- Corps Infantery (Raider Batalyon, Para Batalyon, Heavy Infantery Batalyon, Medium Infantery Batalyon, Line Infantery Batalyon)
+- Corps Artilery ( Land Artilery Batalyon, Air Artilery Batalyon)
+- Corps Cavalery (Assault Cavalery Batalyon, Support Cavalery Batalyon, Defense Cavalery Batalyon)
+- Corps Medic (Office Hospital Batalyon, Field Support Batalyon, Mobile Medic Batalyon)
 - Corps Military Police
-- Corps GM Flight ( Air Transport Division, Air Cargo Division, Air Support Division, Assault Division)
-- Corps Logistics ( Heavy Load Division, Light Load Division)
+- Corps GM Flight ( Air Transport Batalyon, Air Cargo Batalyon, Air Support Batalyon, Assault Batalyon)
+- Corps Logistics ( Heavy Load Batalyon, Light Load Batalyon)
 
 
 Military Ranks of Ground Military UNIT of Propia : 

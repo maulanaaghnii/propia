@@ -12,8 +12,8 @@ Military Unit of Propia :
 
 ### GROUND MILITARY UNIT OF PROPIA ###
 Division GMU : 
-- Corps GMSF 
-- Corps Infantery (Raider, Para, 
+- Corps GMSF (Fox Division)
+- Corps Infantery (Raider Division, Para Division, 
 - Corps Artilery ( Land Artilery Division, Air Artilery Division)
 - Corps Cavalery
 - Corps Medic

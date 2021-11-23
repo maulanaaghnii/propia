@@ -18,7 +18,7 @@ Division GMU :
 - Corps Cavalery
 - Corps Medic
 - Corps Military Police
-- Corps GM Flight 
+- Corps GM Flight ( Air Transport Division, Air Cargo Division, Air Support Division, Assault Division)
 - Corps Logistics ( Heavy Load Division, Light Load Division)
 
 

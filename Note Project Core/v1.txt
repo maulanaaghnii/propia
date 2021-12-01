@@ -23,6 +23,14 @@ Division GMU :
 
 
 Military Ranks of Ground Military UNIT of Propia : 
+
+RG
+GG
+GEN
+LTG
+MG
+BG
+
 COL		- Colonel
 LTC		- Lieutenant Colonel
 MAJ		- Major

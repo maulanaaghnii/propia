@@ -31,13 +31,13 @@ LTG		- Lieutenant General		***
 MG		- Major General			**
 BG		- Brigadier General		*
 
-COL		- Colonel
-LTC		- Lieutenant Colonel
-MAJ		- Major
-CPT		- Captain
-1LT		- Second Lieutenant
-2LT		- First Lieutenant
-SGM		- Sergeant Major
+COL		- Colonel			ooo
+LTC		- Lieutenant Colonel		oo
+MAJ		- Major				o
+CPT		- Captain			|||
+1LT		- Second Lieutenant		||
+2LT		- First Lieutenant		|
+SGM		- Sergeant Major		
 SFC		- Sergeant First Class
 SSG		- Staff Sergeant
 SGT		- Sergeant

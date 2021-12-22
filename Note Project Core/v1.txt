@@ -34,18 +34,22 @@ BG		- Brigadier General		*
 COL		- Colonel			ooo
 LTC		- Lieutenant Colonel		oo
 MAJ		- Major				o
+
 CPT		- Captain			|||
 1LT		- Second Lieutenant		||
 2LT		- First Lieutenant		|
-SGM		- Sergeant Major		
-SFC		- Sergeant First Class
-SSG		- Staff Sergeant
-SGT		- Sergeant
-CCP		- Chief Corporal
-CPL		- Corporal
-1ndCPL	- First Class Corporal 
-2ndCPL 	- Second Class Corporal 
-PSP 		- Private Specialist
-PFC 		- Private First Class
-PVT 		- Private
+
+SGM		- Sergeant Major		VVVV
+SFC		- Sergeant First Class		VVV
+SSG		- Staff Sergeant		VV
+SGT		- Sergeant			V
+
+CCP		- Chief Corporal		vvvv
+CPL		- Corporal			vvv
+1ndCPL		- First Class Corporal 		vv
+2ndCPL	 	- Second Class Corporal		v 
+
+PSP 		- Private Specialist		---
+PFC 		- Private First Class		--
+PVT 		- Private			-
 
